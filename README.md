@@ -1,6 +1,6 @@
 # Banana_Suitability 
-##Overview
-This project analyzes banana crop suitability across Kenya using GIS and remote sensing datasets in Google Earth Engine (GEE). The analysis is based on key environmental factors, including rainfall, temperature, wind speed, soil properties, elevation, and land cover.
+## Overview
+Using GIS and remote sensing datasets in Google Earth Engine (GEE), this project analyses banana crop suitability across Kenya. The analysis is based on key environmental factors, including rainfall, temperature, wind speed, soil properties, elevation, and land cover.
 
 ### Data Sources
 
